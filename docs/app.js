@@ -209,3 +209,12 @@ async function loadMenu() {
   }
 }
 loadMenu();
+
+const backToTop = $(".back-to-top");
+const mobileViewport = window.matchMedia("(max-width: 768px)");
+function updateBackToTop() {
+  backToTop.hidden = !mobileViewport.matches || window.scrollY < 500;
+}
+window.addEventListener("scroll", updateBackToTop, { passive: true });
+mobileViewport.addEventListener("change", updateBackToTop);
+updateBackToTop();
