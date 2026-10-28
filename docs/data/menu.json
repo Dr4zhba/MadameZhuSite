@@ -1,0 +1,1610 @@
+{
+  "sourceUrl": "https://madamezhu.ru/menu",
+  "schedules": {
+    "main": "Основное меню подаем с 12:00",
+    "breakfastWeekdays": "Пн–пт с 9:00 до 13:00",
+    "breakfastWeekends": "Сб–вс с 9:00 до 16:00",
+    "filterCoffee": "Безлимитный фильтр-кофе по будням с 9:00 до 12:00"
+  },
+  "categories": [
+    {
+      "id": "starters-salads",
+      "label": "Закуски / салаты",
+      "group": "main",
+      "items": [
+        {
+          "id": "crispy-eggplant-chili",
+          "name": "Хрустящие баклажаны в соусе сладкий чили",
+          "description": "",
+          "portion": "150 гр",
+          "price": 350,
+          "image": "assets/examples/edc7162d36360f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53072",
+          "imageExampleName": "Crispy Eggplant"
+        },
+        {
+          "id": "ginger-chicken-salad",
+          "name": "Салат с имбирным цыпленком",
+          "description": "На манер Цезарь",
+          "portion": "250 гр",
+          "price": 590,
+          "image": "assets/examples/39488f3fc13982.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53232",
+          "imageExampleName": "Vietnamese chicken salad"
+        },
+        {
+          "id": "madame-zhu-green-salad",
+          "name": "Зеленый салат «Мадам Жу»",
+          "description": "Листья салата в соусе юдзу / Бобы / Огурец / Брокколи / Слайс цукини / Сельдерей / Пак-чой / Семена и орехи / Авокадо и соус манго-маракуйя",
+          "portion": "270 гр",
+          "price": 670,
+          "image": "assets/examples/58126b83cda385.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53492",
+          "imageExampleName": "Bulgarian Green Salad"
+        },
+        {
+          "id": "chicken-liver-terrine",
+          "name": "Терин-Паштет из куриной печени с фисташкой",
+          "description": "Подаем с теплым хрустящим багетом и луковым конфитюром",
+          "portion": "180 гр",
+          "price": 490,
+          "image": "assets/examples/a07497a1de7735.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Chicken_Liver_P%C3%A2t%C3%A9.jpg",
+          "imageExampleName": "File:Chicken Liver Pâté.jpg"
+        },
+        {
+          "id": "northern-shrimp-carpaccio",
+          "name": "Сладкая северная креветка и томатный карпаччо",
+          "description": "Подаем с рукколой, песто, пармезаном и бальзамиком",
+          "portion": "250 гр",
+          "price": 730,
+          "image": "assets/examples/0594efbcf0ae70.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53239",
+          "imageExampleName": "Bang bang prawn salad"
+        },
+        {
+          "id": "eggplant-king-shrimp-salad",
+          "name": "Салат с хрустящими баклажанами",
+          "description": "И королевскими креветками",
+          "portion": "280 гр",
+          "price": 780,
+          "image": "assets/examples/d288435741c941.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53267",
+          "imageExampleName": "Aubergine couscous salad"
+        },
+        {
+          "id": "veal-tartare-yuzu",
+          "name": "Тартар из телятины с трюфельным муссом юдзу",
+          "description": "На выбор: с бататом / с картофелем фри / с бородинскими тостами",
+          "portion": "220 гр",
+          "price": 860,
+          "image": "assets/examples/928de3e79c1a33.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Steak_Tartare_in_Dresden.jpg",
+          "imageExampleName": "File:Steak Tartare in Dresden.jpg"
+        },
+        {
+          "id": "roastbeef-ramiro-salad",
+          "name": "Ростбиф салат с печеными перцами рамиро и фермерскими овощами",
+          "description": "Подаем с трюфельным маслом и зеленью",
+          "portion": "230 гр",
+          "price": 690,
+          "image": "assets/examples/da2b611c86056d.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53229",
+          "imageExampleName": "Steak & Vietnamese noodle salad"
+        },
+        {
+          "id": "scallop-tartare",
+          "name": "Тартар из жемчужного гребешка",
+          "description": "Подаем с топленым копченым маслом, черной икрой палтуса и теплым хлебом (бородинский и хрустящий багет)",
+          "portion": "140 гр",
+          "price": 970,
+          "image": "assets/menu-scallop-tartare.jpg",
+          "imageSource": "https://www.instagram.com/madamezhu.rest/reel/DdI_7cduzuD/"
+        },
+        {
+          "id": "paris-salmon-tartare",
+          "name": "Парижский тартар из лосося",
+          "description": "Подаем с опаленным авокадо и горячим тартином",
+          "portion": "150 гр",
+          "price": 990,
+          "image": "assets/examples/7b0a8be4c331dd.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Bristol_Bay_Salmon_Tartare_0440_(7564711524).jpg",
+          "imageExampleName": "File:Bristol Bay Salmon Tartare 0440 (7564711524).jpg"
+        },
+        {
+          "id": "wine-set",
+          "name": "Винный сет",
+          "description": "Ремесленный сыр / вяленные томаты / пармезан / дор блю / фуэт / сальчичон / хамон из утки / чипсы из багета / бородинские тосты / пате из тунца",
+          "portion": "350 гр",
+          "price": 1390,
+          "image": "assets/examples/1a27b54723338f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Cheese_platter,_french_style_(42231088730).jpg",
+          "imageExampleName": "File:Cheese platter, french style (42231088730).jpg"
+        },
+        {
+          "id": "red-caviar-butter-baguette",
+          "name": "Красная икра на льду / взбитое сливочное масло / теплый багет",
+          "description": "",
+          "portion": "50/20/100 гр",
+          "price": 1690,
+          "image": "assets/food-caviar.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-caviar"
+        }
+      ]
+    },
+    {
+      "id": "crab-sushi",
+      "label": "Крабовые суши",
+      "group": "main",
+      "note": "Вместо риса мы используем крабовую страчателлу",
+      "items": [
+        {
+          "id": "crab-sushi-pair",
+          "name": "Пара крабовых суши",
+          "description": "Подаем с соусом понзу и огурцами-виски. Лосось / Тунец; Угорь / Креветка",
+          "portion": "",
+          "price": 880,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "crab-sushi-mini-set",
+          "name": "Мини-сет из 4-х крабовых суши",
+          "description": "Лосось / угорь / тунец / авокадо. Подаем с соусом понзу и огурцами-виски",
+          "portion": "",
+          "price": 1640,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "crab-sushi-six-set",
+          "name": "Сет из 6-и суши",
+          "description": "Авокадо / Лосось / Угорь / Тунец / Икра тобико / Креветка. Подаем с соусом понзу и огурцами-виски",
+          "portion": "",
+          "price": 2460,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        }
+      ]
+    },
+    {
+      "id": "soups",
+      "label": "Супы",
+      "group": "main",
+      "items": [
+        {
+          "id": "mushroom-barley-soup",
+          "name": "Грибной суп с белыми грибами / перловой крупой и трюфельной сметаной",
+          "description": "",
+          "portion": "350 гр",
+          "price": 580,
+          "image": "assets/examples/b1c3d647598ab5.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53059",
+          "imageExampleName": "Mushroom soup with buckwheat"
+        },
+        {
+          "id": "crab-stracciatella-okroshka",
+          "name": "Окрошка с крабовой страчателлой",
+          "description": "",
+          "portion": "350 гр",
+          "price": 660,
+          "image": "assets/examples/a273ce213639a6.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53122",
+          "imageExampleName": "Fiskesuppe (Creamy Norwegian Fish Soup)"
+        },
+        {
+          "id": "veal-ham-okroshka",
+          "name": "Окрошка с телятиной и ветчиной",
+          "description": "",
+          "portion": "350 гр",
+          "price": 660,
+          "image": "assets/examples/fff23fdb59ea58.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53077",
+          "imageExampleName": "Cabbage Soup (Shchi)"
+        },
+        {
+          "id": "onion-veal-soup",
+          "name": "Луковый суп с телячьей щекой",
+          "description": "",
+          "portion": "350 гр",
+          "price": 680,
+          "image": "assets/menu-onion-veal-soup.jpg",
+          "imageSource": "https://www.instagram.com/madamezhu.rest/reel/DcLlxVECWMv/"
+        },
+        {
+          "id": "elysee-truffle-soup",
+          "name": "Елисейский трюфельный суп с фуагра и цыпленком",
+          "description": "",
+          "portion": "400 гр",
+          "price": 690,
+          "image": "assets/examples/aa2f6baa850cb4.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53487",
+          "imageExampleName": "Oyster Mushroom Soup"
+        },
+        {
+          "id": "bouillabaisse",
+          "name": "Буйабес — марсельская уха с морскими гадами",
+          "description": "Креветки / кальмар / лосось / сибас / овощи / томаты пронто. Подаем в супнице с половником на 2 персоны (можно заказать половинку)",
+          "portion": "800 гр",
+          "price": 1650,
+          "image": "assets/examples/eff3bc4fc8c31a.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53079",
+          "imageExampleName": "Fish Soup (Ukha)"
+        }
+      ]
+    },
+    {
+      "id": "main-course",
+      "label": "Основной курс / гады / мясо",
+      "group": "main",
+      "items": [
+        {
+          "id": "veal-cheek-pies",
+          "name": "Мини пирожки с телячьими щечками в слоеном бездрожжевом тесте",
+          "description": "Подаем со сметаной и ягодно томатным соусом",
+          "portion": "130 гр",
+          "price": 490,
+          "image": "assets/examples/5a8fa268ae622f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52876",
+          "imageExampleName": "Minced Beef Pie"
+        },
+        {
+          "id": "brazier-eugenie-cutlets",
+          "name": "Котлеты Бразье Эжени (из молочных судачков)",
+          "description": "Подаем с креветочным соусом Нантуа / на гарнир цукини-гриль",
+          "portion": "220 гр",
+          "price": 750,
+          "image": "assets/food-fish.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-fish"
+        },
+        {
+          "id": "beef-bourguignon",
+          "name": "Беф-бургеньон из телячьих щек с трюфельным пюре",
+          "description": "Подаем с соусом из угря и муссом юдзу",
+          "portion": "290 гр",
+          "price": 850,
+          "image": "assets/examples/fd5b1b764e8a24.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52904",
+          "imageExampleName": "Beef Bourguignon"
+        },
+        {
+          "id": "farm-chicken-cutlet",
+          "name": "Графская котлета из фермерского цыпленка",
+          "description": "Подаем с трюфельным соусом / печеный батат с зеленым луком и шпинатом",
+          "portion": "260 гр",
+          "price": 690,
+          "image": "assets/examples/44fb3648cebd92.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53533",
+          "imageExampleName": "Breaded Steak Recipe (Lomo de Res Apanado)"
+        },
+        {
+          "id": "burgundy-snails",
+          "name": "Улитки по-бургундски",
+          "description": "Подаем с мини-багетом",
+          "portion": "210 гр",
+          "price": 950,
+          "image": "assets/menu-burgundy-snails.jpg",
+          "imageSource": "https://www.instagram.com/madamezhu.rest/reel/DebWLszJ5fl/"
+        },
+        {
+          "id": "pepper-veal-steak",
+          "name": "Pepper стейк из телятины (филейная часть)",
+          "description": "Подаем в сливочно-перечном соусе. Цена за 100 гр",
+          "portion": "100 гр",
+          "price": 990,
+          "image": "assets/examples/8c2da14e3f929a.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52935",
+          "imageExampleName": "Steak Diane"
+        },
+        {
+          "id": "steak-hache",
+          "name": "Стейк Аше из рубленной мраморной телятины и масло эстрагона",
+          "description": "Подаем с картофелем дофинуа и азиатским салатом Лимончелло",
+          "portion": "350 гр",
+          "price": 1280,
+          "image": "assets/examples/44fb3648cebd92.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53533",
+          "imageExampleName": "Breaded Steak Recipe (Lomo de Res Apanado)"
+        },
+        {
+          "id": "seabass-vongole-pasta",
+          "name": "Паста с сибасом и вонголе",
+          "description": "Ракушки Конкильони / Сибас на углях / Вонголе / Лук-порей / Листья Кафра / Чили",
+          "portion": "340 гр",
+          "price": 1190,
+          "image": "assets/examples/a9e5783539fedd.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52839",
+          "imageExampleName": "Chilli prawn linguine"
+        },
+        {
+          "id": "lamb-shoulder",
+          "name": "Лопатка барашка",
+          "description": "Шпинат с шичими / Трюфельное пюре / Томат глазированный унаги / Соус Жу",
+          "portion": "240 гр",
+          "price": 1380,
+          "image": "assets/examples/35fc0e5dc130bb.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53056",
+          "imageExampleName": "Croatian lamb peka"
+        }
+      ]
+    },
+    {
+      "id": "rolls",
+      "label": "Роллы",
+      "group": "main",
+      "items": [
+        {
+          "id": "crab-stracciatella-salmon-roll",
+          "name": "Крабовая страчателла в лососе",
+          "description": "Подаем с кремом юдзу",
+          "portion": "4 шт",
+          "price": 790,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "salmon-avocado-ahi-roll",
+          "name": "Лосось и авокадо с соусом ахи",
+          "description": "Подаем в угре и икре тобико",
+          "portion": "4 шт",
+          "price": 790,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "shrimp-avocado-roll",
+          "name": "Креветка и авокадо",
+          "description": "Подаем в угре и лососе татаки с соусом трюфельный айоли",
+          "portion": "4 шт",
+          "price": 790,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "california-crab-salmon-roll",
+          "name": "Калифорния с камчатским крабом и лососем",
+          "description": "Подаем с соусом ментайко",
+          "portion": "4 шт",
+          "price": 790,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "salmon-avocado-shrimp-roll",
+          "name": "Лосось и авокадо в креветке",
+          "description": "Подаем с красной икрой и соусом сливочный васаби",
+          "portion": "4 шт",
+          "price": 790,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "philadelphia-salmon-roll",
+          "name": "Филадельфия в лососе с авокадо и огурцом",
+          "description": "",
+          "portion": "4 шт",
+          "price": 790,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "rice-free-signature-roll",
+          "name": "Авторский ролл без риса",
+          "description": "Лосось / тунец / креветка / манго в рисовой бумаге",
+          "portion": "4 шт",
+          "price": 880,
+          "image": "assets/examples/6247df29231f58.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53243",
+          "imageExampleName": "Vietnamese prawn spiralized rolls"
+        }
+      ]
+    },
+    {
+      "id": "sushi",
+      "label": "Суши",
+      "group": "main",
+      "items": [
+        {
+          "id": "sushi-pair",
+          "name": "Пара суши",
+          "description": "Лосось-сливочный юдзу / Угорь-унаги; Креветка-трюфельный айоли / Тунец-сладкий Чили; Авокадо-унаги / Лосось-трюфельный унаги",
+          "portion": "",
+          "price": 390,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        },
+        {
+          "id": "hakka-sushi",
+          "name": "Хакка суши",
+          "description": "Прессованные суши на рисе. Угорь / авокадо / тунец ахи (8 шт); Лосось / тунец / авокадо / юдзу (8 шт); Лосось татаки / трюфельный айоли (8 шт)",
+          "portion": "8 шт",
+          "price": 990,
+          "image": "assets/examples/5f281f7a424321.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53065",
+          "imageExampleName": "Sushi"
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "label": "Гарниры",
+      "group": "main",
+      "items": [
+        {
+          "id": "grilled-champignons",
+          "name": "Печеные на гриле шампиньоны",
+          "description": "",
+          "portion": "150 гр",
+          "price": 270,
+          "image": "assets/examples/d718580d2f21fe.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53549",
+          "imageExampleName": "Chicken Salad With Mushrooms and Bacon"
+        },
+        {
+          "id": "truffle-mash",
+          "name": "Трюфельное пюре",
+          "description": "",
+          "portion": "150 гр",
+          "price": 290,
+          "image": "assets/examples/adb1329d6700a2.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53389",
+          "imageExampleName": "Apple Potato Mash (Hete bliksem) "
+        },
+        {
+          "id": "fresh-vegetables",
+          "name": "Свежие овощи",
+          "description": "",
+          "portion": "",
+          "price": 290,
+          "image": "assets/examples/b4732af9de25e6.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53491",
+          "imageExampleName": "Shopska Salad"
+        },
+        {
+          "id": "charcoal-vegetables",
+          "name": "Овощи, приготовленные на углях",
+          "description": "",
+          "portion": "250 гр",
+          "price": 350,
+          "image": "assets/examples/3df0f26b9a0a55.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53274",
+          "imageExampleName": "Griddled aubergines with sesame dressing"
+        },
+        {
+          "id": "french-fries",
+          "name": "Картофель фри",
+          "description": "",
+          "portion": "150 гр",
+          "price": 290,
+          "image": "assets/examples/606d9a69cab237.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Plate_of_chips_at_the_Chalet_Cafe,_Cowfold,_West_Sussex,_England.jpg",
+          "imageExampleName": "File:Plate of chips at the Chalet Cafe, Cowfold, West Sussex, England.jpg"
+        },
+        {
+          "id": "sweet-potato-parmesan-yuzu",
+          "name": "Батат с пармезаном и соусом юдзу",
+          "description": "",
+          "portion": "150 гр",
+          "price": 450,
+          "image": "assets/examples/1b966c35168c6d.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53275",
+          "imageExampleName": "Sweet potato salad"
+        }
+      ]
+    },
+    {
+      "id": "artisan-bread",
+      "label": "Ремесленный хлеб",
+      "group": "main",
+      "items": [
+        {
+          "id": "bread-selection",
+          "name": "Ремесленный хлеб",
+          "description": "Фундучная бриошь / багет / злаковый бородинский / тартин. Подаем с подкопченным маслом",
+          "portion": "150 гр",
+          "price": 290,
+          "image": "assets/examples/8937deb22ac1b4.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53308",
+          "imageExampleName": "Rye bread"
+        }
+      ]
+    },
+    {
+      "id": "breakfast-constructor",
+      "label": "Завтрак конструктор",
+      "group": "breakfast",
+      "items": [
+        {
+          "id": "farm-egg",
+          "name": "Фермерское яйцо",
+          "description": "Пашот, скрембл, вкрутую, глазунья",
+          "portion": "50 гр",
+          "price": 70,
+          "image": "assets/examples/43f58261c3fbd9.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52962",
+          "imageExampleName": "Salmon Eggs Eggs Benedict"
+        },
+        {
+          "id": "breakfast-green-salad",
+          "name": "Зеленый салат",
+          "description": "",
+          "portion": "50 гр",
+          "price": 150,
+          "image": "assets/examples/58126b83cda385.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53492",
+          "imageExampleName": "Bulgarian Green Salad"
+        },
+        {
+          "id": "baku-tomatoes",
+          "name": "Бакинские томаты",
+          "description": "",
+          "portion": "100 гр",
+          "price": 150,
+          "image": "assets/examples/ae37e1cb37dd40.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53185",
+          "imageExampleName": "Chorizo & tomato salad"
+        },
+        {
+          "id": "mortadella",
+          "name": "Мортаделла",
+          "description": "",
+          "portion": "50 гр",
+          "price": 150,
+          "image": "assets/examples/59acc4b812e84a.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Mortadella_orta_affettata.jpg",
+          "imageExampleName": "File:Mortadella orta affettata.jpg"
+        },
+        {
+          "id": "potato-gratin",
+          "name": "Картофельный гратен",
+          "description": "",
+          "portion": "100 гр",
+          "price": 190,
+          "image": "assets/examples/d631bdfb55f1a0.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52780",
+          "imageExampleName": "Potato Gratin with Chicken"
+        },
+        {
+          "id": "seasonal-berries",
+          "name": "Сезонные ягоды",
+          "description": "",
+          "portion": "50 гр",
+          "price": 290,
+          "image": "assets/examples/f621b6f4af3e3b.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53082",
+          "imageExampleName": "Strawberries Romanoff"
+        },
+        {
+          "id": "avocado-half",
+          "name": "Половина авокадо",
+          "description": "",
+          "portion": "",
+          "price": 290,
+          "image": "assets/examples/61d05bfbdc9e02.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Avocado_with_cross_section_edit.jpg",
+          "imageExampleName": "File:Avocado with cross section edit.jpg"
+        },
+        {
+          "id": "truffle",
+          "name": "Трюфель",
+          "description": "",
+          "portion": "1 гр",
+          "price": 360,
+          "image": "assets/examples/1407213a71d00b.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Tuber_melanosporum_-_trufa_negra,_%C3%81greda,_Espa%C3%B1a.jpg",
+          "imageExampleName": "File:Tuber melanosporum - trufa negra, Ágreda, España.jpg"
+        },
+        {
+          "id": "tiger-shrimp",
+          "name": "Тигровая креветка",
+          "description": "",
+          "portion": "50 гр",
+          "price": 370,
+          "image": "assets/examples/6793d12d199059.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53180",
+          "imageExampleName": "Garlicky prawns with sherry"
+        },
+        {
+          "id": "crab-stracciatella",
+          "name": "Крабовая страчателла",
+          "description": "",
+          "portion": "30 гр",
+          "price": 390,
+          "image": "assets/food-seafood.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-seafood"
+        },
+        {
+          "id": "lightly-salted-salmon",
+          "name": "Лосось с/с",
+          "description": "",
+          "portion": "50 гр",
+          "price": 480,
+          "image": "assets/food-fish.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-fish"
+        },
+        {
+          "id": "red-caviar",
+          "name": "Красная икра",
+          "description": "",
+          "portion": "10 гр",
+          "price": 480,
+          "image": "assets/food-caviar.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-caviar"
+        }
+      ]
+    },
+    {
+      "id": "breakfasts",
+      "label": "Завтраки",
+      "group": "breakfast",
+      "items": [
+        {
+          "id": "truffle-scramble-tartine",
+          "name": "Трюфельный скрембл / тартин из печи / зеленый салат с соусом лимончелло",
+          "description": "",
+          "portion": "290 гр",
+          "price": 490,
+          "image": "assets/examples/23d433180b0389.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53076",
+          "imageExampleName": "Bread omelette"
+        },
+        {
+          "id": "croissant-guacamole-egg",
+          "name": "Круассан / гуакамоле / яйцо пашот / шпинат / много пармезана",
+          "description": "",
+          "portion": "240 гр",
+          "price": 580,
+          "image": "assets/food-croissant.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-croissant"
+        },
+        {
+          "id": "teriyaki-chicken-omelette",
+          "name": "Омлет с печеным цыпленком терияки и овощами",
+          "description": "Подаем с зеленым салатом с соусом Лимончелло",
+          "portion": "220 гр",
+          "price": 480,
+          "image": "assets/examples/c573a73e21b290.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53370",
+          "imageExampleName": "Egg Foo Young"
+        },
+        {
+          "id": "farm-egg-shakshuka",
+          "name": "Шакшука из фермерских яиц с кинзой",
+          "description": "Подаем с зеленым салатом лимончелло",
+          "portion": "350 гр",
+          "price": 590,
+          "image": "assets/examples/5e1c3372101049.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53219",
+          "imageExampleName": "Shakshuka Feta Cheese"
+        },
+        {
+          "id": "veal-cheek-potato-pancake",
+          "name": "Драник с телячьей щекой и яйцом пашот",
+          "description": "Подаем с муссом из пармезана и соусом унаги",
+          "portion": "250 гр",
+          "price": 590,
+          "image": "assets/examples/e207e13546edae.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52965",
+          "imageExampleName": "Breakfast Potatoes"
+        },
+        {
+          "id": "roastbeef-mushroom-fried-eggs",
+          "name": "Глазунья с ростбифом из телятины, сезонными лесными грибами и шампиньонами",
+          "description": "Подаем с трюфельным муссом и хрустящим багетом",
+          "portion": "240 гр",
+          "price": 660,
+          "image": "assets/examples/43f58261c3fbd9.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52962",
+          "imageExampleName": "Salmon Eggs Eggs Benedict"
+        },
+        {
+          "id": "mortadella-shakshuka",
+          "name": "Шакшука с мортаделлой, готовим из фермерских яиц с томатами и перцами",
+          "description": "Подаем с кинзой",
+          "portion": "500 гр",
+          "price": 680,
+          "image": "assets/examples/5e1c3372101049.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53219",
+          "imageExampleName": "Shakshuka Feta Cheese"
+        },
+        {
+          "id": "salmon-fitness-breakfast",
+          "name": "Фитнес завтрак с лососем слабой соли",
+          "description": "Авокадо / зеленый салат лимончелло / свежий огурец / яйцо пашот",
+          "portion": "250 гр",
+          "price": 680,
+          "image": "assets/examples/5be34e8e01f857.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52960",
+          "imageExampleName": "Salmon Avocado Salad"
+        },
+        {
+          "id": "salmon-potato-pancake",
+          "name": "Драник с лососем и яйцом пашот",
+          "description": "Подаем с муссом из пармезана и капустой пак-чой в кунжутном соусе",
+          "portion": "230 гр",
+          "price": 790,
+          "image": "assets/examples/43f58261c3fbd9.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52962",
+          "imageExampleName": "Salmon Eggs Eggs Benedict"
+        },
+        {
+          "id": "crab-scramble-croissant",
+          "name": "Круассан с крабовой страчателлой / с скремблом, сырным кремом и авокадо",
+          "description": "",
+          "portion": "240 гр",
+          "price": 840,
+          "image": "assets/food-croissant.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-croissant"
+        },
+        {
+          "id": "paris-breakfast",
+          "name": "Парижский завтрак",
+          "description": "Креветки гриль / авокадо / багет / скрембл / руккола и шпинат",
+          "portion": "260 гр",
+          "price": 870,
+          "image": "assets/food-breakfast.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-breakfast"
+        },
+        {
+          "id": "french-salmon-omelette",
+          "name": "Французский омлет с лососем слабой соли и страчателлой",
+          "description": "",
+          "portion": "240 гр",
+          "price": 890,
+          "image": "assets/examples/040fc968aa7235.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52915",
+          "imageExampleName": "French Omelette"
+        },
+        {
+          "id": "morning-in-cannes-breakfast",
+          "name": "Большой завтрак «Утро в Каннах»",
+          "description": "Круассан / слабосоленый лосось / красная икра / авокадо / салат Лимончелло / яйцо всмятку / паштет из тунца / бородинский тост",
+          "portion": "400 гр",
+          "price": 1490,
+          "image": "assets/food-breakfast.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-breakfast"
+        }
+      ]
+    },
+    {
+      "id": "pancakes",
+      "label": "Блины",
+      "group": "breakfast",
+      "items": [
+        {
+          "id": "pancakes-sour-cream-condensed-milk",
+          "name": "Блины со сметаной / сгущенкой",
+          "description": "",
+          "portion": "190 гр",
+          "price": 240,
+          "image": "assets/examples/e10bbd47c6f22b.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53080",
+          "imageExampleName": "Blini Pancakes"
+        },
+        {
+          "id": "trout-cream-cheese-pancakes",
+          "name": "Блины с форелью слабой соли и сырным кремом",
+          "description": "",
+          "portion": "200 гр",
+          "price": 750,
+          "image": "assets/examples/5947b463a35f7f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53022",
+          "imageExampleName": "Polskie Nalesniki (Polish Pancakes)"
+        },
+        {
+          "id": "chicken-mushroom-pancakes",
+          "name": "Блины с жюльеном из цыпленка и грибов",
+          "description": "",
+          "portion": "260 гр",
+          "price": 490,
+          "image": "assets/examples/e10bbd47c6f22b.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53080",
+          "imageExampleName": "Blini Pancakes"
+        },
+        {
+          "id": "strawberry-sour-cream-pancakes",
+          "name": "Блины со сметаной и протертой викторией",
+          "description": "",
+          "portion": "250 гр",
+          "price": 280,
+          "image": "assets/examples/7fde0633df2f83.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52854",
+          "imageExampleName": "Pancakes"
+        }
+      ]
+    },
+    {
+      "id": "grains-curd",
+      "label": "Злаки и творог",
+      "group": "breakfast",
+      "items": [
+        {
+          "id": "milk-oat-rice-porridge",
+          "name": "Каша овсяная / рисовая",
+          "description": "На молоке",
+          "portion": "220 гр",
+          "price": 190,
+          "image": "assets/examples/947d16ec662443.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Oatmeal_porridge_with_fruits.jpg",
+          "imageExampleName": "File:Oatmeal porridge with fruits.jpg"
+        },
+        {
+          "id": "syrniki-sour-cream",
+          "name": "Сырники",
+          "description": "Сметана / сгущенка",
+          "portion": "140 гр",
+          "price": 320,
+          "image": "assets/examples/24de9fd94794e1.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Syrniki6.jpg",
+          "imageExampleName": "File:Syrniki6.jpg"
+        },
+        {
+          "id": "syrniki-custard-cherry",
+          "name": "Сырники",
+          "description": "С заварным кремом и вишней конфи",
+          "portion": "210 гр",
+          "price": 430,
+          "image": "assets/examples/39f2190601b251.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Syrniki_with_fruits.jpg",
+          "imageExampleName": "File:Syrniki with fruits.jpg"
+        },
+        {
+          "id": "buckwheat-veal-cheeks",
+          "name": "Гречневая каша с телячьими щечками / яйцо пашот с пармезаном",
+          "description": "",
+          "portion": "300 гр",
+          "price": 490,
+          "image": "assets/examples/b1c3d647598ab5.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53059",
+          "imageExampleName": "Mushroom soup with buckwheat"
+        },
+        {
+          "id": "tuna-confit-oatmeal",
+          "name": "Овсянка с тунцом конфи и яйцом пашот с трюфельным маслом",
+          "description": "Подаем с пармезаном и сырным муссом (в кастрюльке)",
+          "portion": "290 гр",
+          "price": 440,
+          "image": "assets/examples/914ac17e300297.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52956",
+          "imageExampleName": "Chicken Congee"
+        },
+        {
+          "id": "avignon-curd-casserole",
+          "name": "Творожная запеканка Авиньон из творога и сметаны, с грушей и нектаринами",
+          "description": "",
+          "portion": "220 гр",
+          "price": 460,
+          "image": "assets/examples/592e034ff34b76.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52779",
+          "imageExampleName": "Cream Cheese Tart"
+        },
+        {
+          "id": "coconut-rice-porridge",
+          "name": "Рисовая каша на кокосовом молоке",
+          "description": "Подаем с сезонными фруктами, ягодами и ананасом в соусе манго-маракуйя",
+          "portion": "280 гр",
+          "price": 490,
+          "image": "assets/examples/6066174c638d62.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53363",
+          "imageExampleName": "Jamaican Cornmeal Porridge"
+        },
+        {
+          "id": "truffle-porcini-oatmeal",
+          "name": "Трюфельная овсянка с белыми грибами",
+          "description": "Подаем с угрем и яйцом пашот",
+          "portion": "280 гр",
+          "price": 780,
+          "image": "assets/examples/914ac17e300297.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52956",
+          "imageExampleName": "Chicken Congee"
+        }
+      ]
+    },
+    {
+      "id": "fresh-juices",
+      "label": "Фреши",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "orange-fresh",
+          "name": "Апельсин",
+          "description": "",
+          "portion": "100 мл",
+          "price": 250,
+          "image": "assets/examples/cc1a54d198823f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg",
+          "imageExampleName": "File:Orange juice 1 edit1.jpg"
+        },
+        {
+          "id": "grapefruit-fresh",
+          "name": "Грейпфрут",
+          "description": "",
+          "portion": "100 мл",
+          "price": 250,
+          "image": "assets/examples/d2e8a7166d3495.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/15106",
+          "imageExampleName": "Apello"
+        },
+        {
+          "id": "apple-fresh",
+          "name": "Яблоко",
+          "description": "",
+          "portion": "100 мл",
+          "price": 250,
+          "image": "assets/examples/9c0641130b5c81.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12710",
+          "imageExampleName": "Apple Berry Smoothie"
+        },
+        {
+          "id": "carrot-coconut-fresh",
+          "name": "Морковь (с кокосовыми сливками)",
+          "description": "",
+          "portion": "100 мл",
+          "price": 250,
+          "image": "assets/examples/cc1a54d198823f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg",
+          "imageExampleName": "File:Orange juice 1 edit1.jpg"
+        },
+        {
+          "id": "celery-fresh",
+          "name": "Сельдерей",
+          "description": "",
+          "portion": "100 мл",
+          "price": 320,
+          "image": "assets/examples/8b66cb34f32638.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12714",
+          "imageExampleName": "Kiwi Papaya Smoothie"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "label": "Десерты",
+      "group": "main",
+      "items": [
+        {
+          "id": "salted-caramel-cookie",
+          "name": "Печенье с солёной карамелью",
+          "description": "",
+          "portion": "",
+          "price": 150,
+          "image": "assets/examples/6711306b3f3416.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53414",
+          "imageExampleName": "Kurabie Butter Cookies"
+        },
+        {
+          "id": "ice-cream-nuts-chocolate",
+          "name": "Пломбир с орехами и шоколадом",
+          "description": "",
+          "portion": "1 шарик",
+          "price": 220,
+          "image": "assets/examples/a62816a4e7388f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53346",
+          "imageExampleName": "Grape Nut Ice Cream"
+        },
+        {
+          "id": "seasonal-berry-tart",
+          "name": "Тарт с сезонными ягодами",
+          "description": "",
+          "portion": "",
+          "price": 570,
+          "image": "assets/examples/cd9b3fc5fa6578.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/53550",
+          "imageExampleName": "Strawberry tart"
+        },
+        {
+          "id": "seasonal-berry-napoleon",
+          "name": "Наполеон с сезонными ягодами",
+          "description": "",
+          "portion": "",
+          "price": 650,
+          "image": "assets/food-dessert.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-dessert"
+        },
+        {
+          "id": "blueberry-frangipane-tart",
+          "name": "Черничный тарт с миндальным франжипаном",
+          "description": "Подаем горячим с пломбиром",
+          "portion": "",
+          "price": 590,
+          "image": "assets/examples/1370d9e1b6beae.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52767",
+          "imageExampleName": "Bakewell tart"
+        },
+        {
+          "id": "handmade-sweets",
+          "name": "Конфеты ручной работы",
+          "description": "",
+          "portion": "",
+          "price": 200,
+          "image": "assets/examples/54b6fffe06f831.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52966",
+          "imageExampleName": "Chocolate Caramel Crispy"
+        },
+        {
+          "id": "vanilla-tiramisu",
+          "name": "Ванильный тирамису",
+          "description": "",
+          "portion": "",
+          "price": 490,
+          "image": "assets/examples/138881a8924107.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Classic_Italian_Tiramisu-3_(29989504485).jpg",
+          "imageExampleName": "File:Classic Italian Tiramisu-3 (29989504485).jpg"
+        },
+        {
+          "id": "creme-brulee",
+          "name": "Крем-брюле",
+          "description": "",
+          "portion": "",
+          "price": 380,
+          "image": "assets/examples/c4ddc54bf26607.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52917",
+          "imageExampleName": "White chocolate creme brulee"
+        },
+        {
+          "id": "custard-chocolate-profiteroles",
+          "name": "Профитроли с заварным кремом и горячим шоколадом",
+          "description": "",
+          "portion": "",
+          "price": 590,
+          "image": "assets/examples/289aa6829e9c80.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:2025_Wisconsin_State_Fair_47_(Chocolate_Cream_Puff).jpg",
+          "imageExampleName": "File:2025 Wisconsin State Fair 47 (Chocolate Cream Puff).jpg"
+        },
+        {
+          "id": "lemon-meringue-tart",
+          "name": "Лимонный тарт с меренгой",
+          "description": "",
+          "portion": "",
+          "price": 590,
+          "image": "assets/examples/d6c1d95992ffdf.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52892",
+          "imageExampleName": "Treacle Tart"
+        }
+      ]
+    },
+    {
+      "id": "bakery",
+      "label": "Выпечка",
+      "group": "main",
+      "items": [
+        {
+          "id": "classic-croissant",
+          "name": "Круассан классический",
+          "description": "",
+          "portion": "",
+          "price": 240,
+          "image": "assets/examples/bc09c731061073.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Croissant_In_Austria.jpg",
+          "imageExampleName": "File:Croissant In Austria.jpg"
+        },
+        {
+          "id": "almond-croissant",
+          "name": "Круассан миндальный",
+          "description": "",
+          "portion": "",
+          "price": 420,
+          "image": "assets/food-croissant.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://madamezhu.ru/",
+          "imageExampleName": "food-croissant"
+        },
+        {
+          "id": "chocolate-croissant",
+          "name": "Круассан шоколадный",
+          "description": "",
+          "portion": "",
+          "price": 350,
+          "image": "assets/examples/a743f0bdeadc8c.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Pain_au_chocolat_Luc_Viatour.jpg",
+          "imageExampleName": "File:Pain au chocolat Luc Viatour.jpg"
+        },
+        {
+          "id": "pear-danish",
+          "name": "Даниш с грушей",
+          "description": "",
+          "portion": "",
+          "price": 350,
+          "image": "assets/examples/af6c40f5103133.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.themealdb.com/meal/52957",
+          "imageExampleName": "Fruit and Cream Cheese Breakfast Pastries"
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "label": "Кофе",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "espresso",
+          "name": "Эспрессо",
+          "description": "",
+          "portion": "40 мл",
+          "price": 190,
+          "image": "assets/examples/d7c2a5b43ea2a9.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Espresso_Coffee_01.jpg",
+          "imageExampleName": "File:Espresso Coffee 01.jpg"
+        },
+        {
+          "id": "americano",
+          "name": "Американо",
+          "description": "",
+          "portion": "250 мл",
+          "price": 250,
+          "image": "assets/examples/2b8ecc4ceec03f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+          "imageExampleName": "File:Latte and dark coffee.jpg"
+        },
+        {
+          "id": "filter-coffee",
+          "name": "Фильтр-кофе",
+          "description": "",
+          "portion": "300 мл",
+          "price": 250,
+          "image": "assets/examples/d7c2a5b43ea2a9.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Espresso_Coffee_01.jpg",
+          "imageExampleName": "File:Espresso Coffee 01.jpg"
+        },
+        {
+          "id": "cappuccino-200",
+          "name": "Капучино",
+          "description": "",
+          "portion": "200 мл",
+          "price": 290,
+          "image": "assets/examples/ee2c8ba53226b0.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_with_latte_art_2016.jpg",
+          "imageExampleName": "File:Cup of coffee with latte art 2016.jpg"
+        },
+        {
+          "id": "cappuccino-300",
+          "name": "Капучино",
+          "description": "",
+          "portion": "300 мл",
+          "price": 320,
+          "image": "assets/examples/ee2c8ba53226b0.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_with_latte_art_2016.jpg",
+          "imageExampleName": "File:Cup of coffee with latte art 2016.jpg"
+        },
+        {
+          "id": "latte",
+          "name": "Латте",
+          "description": "",
+          "portion": "300 мл",
+          "price": 320,
+          "image": "assets/examples/ee2c8ba53226b0.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_with_latte_art_2016.jpg",
+          "imageExampleName": "File:Cup of coffee with latte art 2016.jpg"
+        },
+        {
+          "id": "vanilla-raf",
+          "name": "Раф Ванильный",
+          "description": "",
+          "portion": "300 мл",
+          "price": 390,
+          "image": "assets/examples/4c8f139ecd9158.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12768",
+          "imageExampleName": "Frappé"
+        },
+        {
+          "id": "flat-white",
+          "name": "Флэт уайт",
+          "description": "",
+          "portion": "220 мл",
+          "price": 320,
+          "image": "assets/examples/ee2c8ba53226b0.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_with_latte_art_2016.jpg",
+          "imageExampleName": "File:Cup of coffee with latte art 2016.jpg"
+        },
+        {
+          "id": "espresso-tonic",
+          "name": "Эспрессо-тоник",
+          "description": "",
+          "portion": "300 мл",
+          "price": 320,
+          "image": "assets/examples/ed80ba5ab5acf2.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12770",
+          "imageExampleName": "Iced Coffee"
+        },
+        {
+          "id": "orange-bumble-coffee",
+          "name": "Бамбл-кофе на апельсиновом фреше",
+          "description": "",
+          "portion": "350 мл",
+          "price": 420,
+          "image": "assets/examples/ed80ba5ab5acf2.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12770",
+          "imageExampleName": "Iced Coffee"
+        },
+        {
+          "id": "alternative-milk",
+          "name": "Альтернативное молоко",
+          "description": "",
+          "portion": "",
+          "price": 120,
+          "priceNote": "+120 ₽",
+          "image": "assets/examples/e31d7d8eb66bc0.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12696",
+          "imageExampleName": "Lassi - Sweet"
+        }
+      ]
+    },
+    {
+      "id": "not-coffee",
+      "label": "Не кофе",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "cocoa",
+          "name": "Какао",
+          "description": "",
+          "portion": "300 мл",
+          "price": 340,
+          "image": "assets/examples/674fa30f10eaea.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12730",
+          "imageExampleName": "Castillian Hot Chocolate"
+        },
+        {
+          "id": "matcha-tonic",
+          "name": "Матча-тоник",
+          "description": "",
+          "portion": "300 мл",
+          "price": 320,
+          "image": "assets/examples/1ffadf514cd744.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Matcha_Latte_with_Seasalt_Cream.jpg",
+          "imageExampleName": "File:Matcha Latte with Seasalt Cream.jpg"
+        },
+        {
+          "id": "coconut-matcha-latte",
+          "name": "Матча-латте на кокосовом молоке",
+          "description": "",
+          "portion": "300 мл",
+          "price": 420,
+          "image": "assets/examples/9263033825e364.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Matcha_green_tea_latte_art.jpg",
+          "imageExampleName": "File:Matcha green tea latte art.jpg"
+        },
+        {
+          "id": "orange-matcha-bumble",
+          "name": "Матча-Бамбл на апельсиновом фреше",
+          "description": "",
+          "portion": "350 мл",
+          "price": 420,
+          "image": "assets/examples/f5badf4754a49d.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Matcha_tea_latte_with_rosetta_latte_art.jpg",
+          "imageExampleName": "File:Matcha tea latte with rosetta latte art.jpg"
+        },
+        {
+          "id": "peach-iced-tea",
+          "name": "Персиковый Айс-ти",
+          "description": "",
+          "portion": "400 мл",
+          "price": 290,
+          "image": "assets/examples/042f9d9f5de717.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12786",
+          "imageExampleName": "Thai Iced Tea"
+        }
+      ]
+    },
+    {
+      "id": "drinks-with-love",
+      "label": "Напитки с любовью",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "wild-strawberry-rose-raf",
+          "name": "Раф Земляничный с розой",
+          "description": "",
+          "portion": "300 мл",
+          "price": 390,
+          "image": "assets/examples/ab929b5f3e2cf5.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/14209",
+          "imageExampleName": "Mocha-Berry"
+        },
+        {
+          "id": "banana-ice-cream-latte",
+          "name": "Латте Банановое мороженое",
+          "description": "",
+          "portion": "300 мл",
+          "price": 390,
+          "image": "assets/examples/4c8f139ecd9158.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12768",
+          "imageExampleName": "Frappé"
+        },
+        {
+          "id": "caramel-popcorn-cappuccino",
+          "name": "Капучино Карамельный попкорн",
+          "description": "",
+          "portion": "300 мл",
+          "price": 390,
+          "image": "assets/examples/ee2c8ba53226b0.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_with_latte_art_2016.jpg",
+          "imageExampleName": "File:Cup of coffee with latte art 2016.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tea",
+      "label": "Чай",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "teapot-tea",
+          "name": "Чай в чайнике",
+          "description": "Черные: Дянь хун / Эрл Грей / Таёжный с хвоей и брусникой. Зелёные: Сенча японская / Габа Янтарная / Зелёный с Липой / Молочный улун Най Сян. Травяные: Таёжный сбор / Смородиновый с васильком / Иван чай с Сибирскими ягодами",
+          "portion": "600 мл",
+          "price": 480,
+          "image": "assets/examples/2b0328a9913f94.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12774",
+          "imageExampleName": "Masala Chai"
+        },
+        {
+          "id": "signature-tea",
+          "name": "Авторский чай",
+          "description": "Вишня-Инжир-Тайга / Мандарин-Юдзу-Ваниль / Малина-Мята-Клюква",
+          "portion": "600 мл",
+          "price": 540,
+          "image": "assets/examples/9911b3c603a097.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/14456",
+          "imageExampleName": "Kurant Tea"
+        }
+      ]
+    },
+    {
+      "id": "mocktails",
+      "label": "Безалкогольные коктейли",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "bellini-virgin",
+          "name": "Bellini virgin",
+          "description": "Персиково-нектариновое пюре, содовая, тоник",
+          "portion": "200 мл",
+          "price": 420,
+          "image": "assets/examples/28a41727ebfe1a.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12670",
+          "imageExampleName": "Fruit Cooler"
+        },
+        {
+          "id": "tangerine-aperol-spritz",
+          "name": "Tangerine Aperol Spritz",
+          "description": "Aperol б/а, мандарин, сок лимона, содовая",
+          "portion": "300 мл",
+          "price": 420,
+          "image": "assets/examples/d2e8a7166d3495.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/15106",
+          "imageExampleName": "Apello"
+        },
+        {
+          "id": "saint-germain",
+          "name": "Saint Germain",
+          "description": "Виски б/а, юдзу, сок лимона, содовая",
+          "portion": "350 мл",
+          "price": 420,
+          "image": "assets/examples/36b9a8c1db1d0f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12704",
+          "imageExampleName": "Limeade"
+        }
+      ]
+    },
+    {
+      "id": "soft-drinks",
+      "label": "Безалкогольные напитки",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "rich-cola",
+          "name": "Rich cola",
+          "description": "",
+          "portion": "330 мл",
+          "price": 290,
+          "image": "assets/examples/c0df0d6969fb31.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/17135",
+          "imageExampleName": "Citrus Coke"
+        },
+        {
+          "id": "rich-juice",
+          "name": "Сок Rich",
+          "description": "Апельсин, яблоко, вишня, ананас",
+          "portion": "",
+          "price": 190,
+          "image": "assets/examples/cc1a54d198823f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg",
+          "imageExampleName": "File:Orange juice 1 edit1.jpg"
+        },
+        {
+          "id": "baikal-reserve-water",
+          "name": "Минеральная вода Baikal Reserve",
+          "description": "",
+          "portion": "",
+          "price": 390,
+          "image": "assets/examples/f784c84af5fdba.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://commons.wikimedia.org/wiki/File:Glass_of_cold_mineral_water.jpg",
+          "imageExampleName": "File:Glass of cold mineral water.jpg"
+        }
+      ]
+    },
+    {
+      "id": "milkshakes",
+      "label": "Молочные коктейли",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "milkshake-selection",
+          "name": "Молочные коктейли",
+          "description": "Ванильный / Банановый с корицей / Карамельный с Инжиром",
+          "portion": "400 мл",
+          "price": 460,
+          "image": "assets/examples/e31d7d8eb66bc0.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12696",
+          "imageExampleName": "Lassi - Sweet"
+        }
+      ]
+    },
+    {
+      "id": "lemonades",
+      "label": "Лимонады",
+      "group": "drinks",
+      "items": [
+        {
+          "id": "lemonade-selection",
+          "name": "Лимонады",
+          "description": "Клубника-Лайм / Земляничная Крем-Сода / Драгон Фрукт-Земляника-Фейхоа / Персик-Дыня-Улун",
+          "portion": "350 мл / 1 л",
+          "price": 290,
+          "priceNote": "350 мл — 290 ₽ · 1 л — 790 ₽",
+          "image": "assets/examples/36b9a8c1db1d0f.jpg",
+          "imageIsExample": true,
+          "imageSource": "https://www.thecocktaildb.com/drink/12704",
+          "imageExampleName": "Limeade"
+        }
+      ]
+    }
+  ]
+}
